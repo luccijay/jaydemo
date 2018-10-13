@@ -1,0 +1,232 @@
+body {
+	background-color: #999;
+	background-attachment: fixed;
+	background-image: url(../images/bg/bg4.jpg);
+	margin: 0px;
+}
+#header {
+	height: 165px;
+	background-color: #666;
+	background-image: url(../images/jpg/header.jpg);
+}
+#nav {
+	background-color: #0C3;
+	height: 30px;
+	color: #FFF;
+	background-image: url(../images/png/nav.png);
+}
+#content {
+	margin: auto;
+	padding: 30px;
+	width: 940px;
+}
+#footer {
+	background-color: #666;
+	height: 350px;
+	background-image: url(../images/jpg/footer.jpg);
+}
+#slide {
+	background-color: #CCC;
+	height: 180px;
+}
+#content1 {
+	height: 220px;
+	margin-top: 15px;
+}
+#content2 {
+	height: 200px;
+	margin-top: 15px;
+}
+.content1_info {
+	background-color: #CCC;
+	float: left;
+	height: 220px;
+	width: 440px;
+	margin-right: 15px;
+	margin-left: 15px;
+}
+#content #content2 .content2_info {
+	background-color: #CCC;
+	float: left;
+	width: 283px;
+	margin-right: 15px;
+	margin-left: 15px;
+	height: 200px;
+}
+#main_header {
+	background-color: #009966;
+	height: 165px;
+	width: 1000px;
+	margin-top: auto;
+	background-image: url(../images/gif/main_header.gif);
+}
+#main_header {
+	margin: auto;
+	height: 165px;
+	width: 1000px;
+}
+#main_navigation {
+	background-color: #06C;
+	margin: auto;
+	height: 35px;
+	width: 1000px;
+	background-image: url(../images/png/nav.png);
+}
+#footer_top {
+	background-color: #066;
+	margin: auto;
+	height: 300px;
+	width: 1000px;
+	background-image: url(../images/jpg/footer.jpg);
+}
+#footer_buttom p {
+	margin: 0px;
+	text-align: center;
+	line-height: 50px;
+	font-family: "Arial Black", Gadget, sans-serif;
+	font-size: 15px;
+	color: #FFF;
+}
+.footer_info p {
+	color: #FFF;
+	font-family: "Courier New", Courier, monospace;
+	font-size: 15px;
+}
+#about p {
+	color: #FFF;
+	font-family: "Courier New", Courier, monospace;
+	font-size: 15px;
+}
+#register  fieldset {
+	border: 2px solid #FF0;
+}
+
+
+
+.footer_info  a {
+	color: #FF0;
+	text-decoration: none;
+}
+#register  legend {
+	font-family: "28 Days Later";
+	font-size: 20px;
+	font-weight: bold;
+	color: #FF0;
+}
+
+.footer_info a:hover {
+	color: #fc0;
+}
+.footer_info li {
+	font-family: "Courier New", Courier, monospace;
+	color: #FFF;
+	font-size: 15px;
+	line-height: 25px;
+	list-style-image: url(../images/png/clock.png);
+}
+
+
+
+
+#footer_buttom a {
+	color: #FF0;
+	text-decoration: none;
+}
+#footer_buttom a:hover {
+	color: #F00;
+	text-decoration: underline;
+}
+
+
+
+
+#footer_bottom {
+	background-color: #039;
+	margin: auto;
+	height: 50px;
+	width: 1000px;
+	background-image: url(../images/jpg/footer_bottom.jpg);
+}
+#footer_buttom {
+	background-color: #006;
+	height: 50px;
+	width: 1000px;
+	margin: auto;
+}
+.footer_info {
+	float: left;
+	height: 300px;
+	width: 220px;
+	margin-right: 15px;
+	margin-left: 15px;
+}
+.footer_info h2 {
+	font-size: 20px;
+	color: #FF0;
+	font-family: "28 Days Later";
+	margin: 0px;
+	border-bottom-style: solid;
+	border-bottom-width: 2px;
+}
+#about h2 {
+	font-size: 20px;
+	color: #FF0;
+	font-family: "28 Days Later";
+	margin: 0px;
+	border-bottom-style: solid;
+	border-bottom-width: 2px;
+}
+
+.social {
+	height: 56px;
+	margin-top: 15px;
+}
+.social_icon {
+	float: left;
+	height: 56px;
+	width: 56px;
+	margin-right: 10px;
+}
+.social_icon {
+	float: left;
+	height: 56px;
+	width: 56px;
+	margin-right: 10px;
+}
+#about {
+	margin: auto;
+	padding: 30px;
+	width: 850px;
+	border: 2px solid #ff0;
+}
+#gallery {
+	background-image: url(../images/gallery/02.jpg);
+	padding: 10px;
+	width: 810px;
+}
+.video {
+	padding: 10px;
+	margin-top: 20px;
+	margin-right: auto;
+	margin-bottom: 20px;
+	margin-left: auto;
+	width: 720px;
+}
+#register {
+	margin: auto;
+	padding: 10px;
+	width: 700px;
+}
+#vidoes {
+	padding: 10px;
+	width: 720px;
+	margin-top: 20px;
+	margin-right: auto;
+	margin-bottom: 20px;
+	margin-left: auto;
+}
+#contact {
+	margin: auto;
+	padding: 15px;
+	width: 600px;
+}
